@@ -1,4 +1,4 @@
-# `f-handlebars-helper-inlineSVG` :bear:
+# `handlebars-helper-inlineSVG` :bear:
 
 [![npm version](https://badge.fury.io/js/%40justeat%2Ff-handlebars-helper-inlineSVG.svg)](https://badge.fury.io/js/%40justeat%2Ff-handlebars-helper-inlineSVG)
 [![Build Status](https://travis-ci.org/justeat/f-handlebars-helper-inlineSVG.svg)](https://travis-ci.org/justeat/f-handlebars-helper-inlineSVG)
