@@ -1,0 +1,60 @@
+{
+  "name": "handlebars-helper-inlineSVG",
+  "description": "Handlebars helper to inline SVGs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "homepage": "https://github.com/justeat/f-handlebars-helper-inlineSVG",
+  "contributors": [
+    "Github contributors <https://github.com/justeat/f-handlebars-helper-inlineSVG/graphs/contributors>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:justeat/f-handlebars-helper-inlineSVG.git"
+  },
+  "bugs": {
+    "url": "https://github.com/justeat/f-handlebars-helper-inlineSVG/issues"
+  },
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "scripts": {
+    "prepare": "concurrently -n \"lint,compile,test\" -c \"blue,yellow,green\" \"yarn lint\" \"yarn compile\" \"yarn run test\" --kill-others-on-fail",
+    "lint": "eslint {src,test}/**/*.js",
+    "compile": "babel -d dist src",
+    "test": "jest --coverage",
+    "test:watch": "jest --coverage --watch",
+    "test:coveralls": "cat coverage/lcov.info | coveralls"
+  },
+  "browserslist": [
+    "> 5%",
+    "last 2 versions",
+    "Safari >= 8",
+    "not ie 10"
+  ],
+  "keywords": [
+    "fozzie"
+  ],
+  "devDependencies": {
+    "@justeat/eslint-config-fozzie": "^2.0.1",
+    "@justeat/f-icons": "^0.11.0",
+    "babel-cli": "^6.26.0",
+    "babel-minify": "^0.4.3",
+    "babel-preset-env": "^1.7.0",
+    "concurrently": "^3.6.1",
+    "coveralls": "^3.0.2",
+    "danger": "^3.8.3",
+    "eslint": "^5.2.0",
+    "eslint-plugin-import": "^2.13.0",
+    "jest": "^23.4.2",
+    "js-test-buddy": "^0.1.0"
+  },
+  "dependencies": {
+    "handlebars": "^4.0.11",
+    "ltx": "^2.7.1",
+    "resolve": "^1.8.1"
+  },
+  "jest": {
+    "testURL": "http://localhost/"
+  }
+}
