@@ -1,5 +1,5 @@
 {
-  "name": "handlebars-helper-inlineSVG",
+  "name": "handlebars-helper-inlinesvg",
   "description": "Handlebars helper to inline SVGs",
   "version": "1.0.0",
   "main": "dist/index.js",
