@@ -1,18 +1,18 @@
 {
   "name": "handlebars-helper-inlinesvg",
   "description": "Handlebars helper to inline SVGs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
-  "homepage": "https://github.com/justeat/f-handlebars-helper-inlineSVG",
+  "homepage": "https://github.com/justeat/f-handlebars-helper-inlinesvg",
   "contributors": [
-    "Github contributors <https://github.com/justeat/f-handlebars-helper-inlineSVG/graphs/contributors>"
+    "Github contributors <https://github.com/justeat/f-handlebars-helper-inlinesvg/graphs/contributors>"
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:justeat/f-handlebars-helper-inlineSVG.git"
+    "url": "git@github.com:justeat/f-handlebars-helper-inlinesvg.git"
   },
   "bugs": {
-    "url": "https://github.com/justeat/f-handlebars-helper-inlineSVG/issues"
+    "url": "https://github.com/justeat/f-handlebars-helper-inlinesvg/issues"
   },
   "license": "Apache-2.0",
   "engines": {
