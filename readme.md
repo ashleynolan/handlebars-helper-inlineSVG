@@ -1,9 +1,9 @@
 # `handlebars-helper-inlineSVG` :bear:
 
-[![npm version](https://badge.fury.io/js/%40justeat%2Ff-handlebars-helper-inlinesvg.svg)](https://badge.fury.io/js/%40justeat%2Ff-handlebars-helper-inlinesvg)
-[![Build Status](https://travis-ci.org/justeat/f-handlebars-helper-inlinesvg.svg)](https://travis-ci.org/justeat/f-handlebars-helper-inlinesvg)
-[![Coverage Status](https://coveralls.io/repos/github/justeat/f-handlebars-helper-inlinesvg/badge.svg)](https://coveralls.io/github/justeat/f-handlebars-helper-inlinesvg)
-[![Dependency Status](https://gemnasium.com/badges/github.com/justeat/f-handlebars-helper-inlinesvg.svg)](https://gemnasium.com/github.com/justeat/f-handlebars-helper-inlinesvg)
+[![npm version](https://badge.fury.io/js/handlebars-helper-inlinesvg.svg)](https://badge.fury.io/js/handlebars-helper-inlinesvg)
+[![Build Status](https://travis-ci.org/justeat/handlebars-helper-inlinesvg.svg)](https://travis-ci.org/justeat/handlebars-helper-inlinesvg)
+[![Coverage Status](https://coveralls.io/repos/github/justeat/handlebars-helper-inlinesvg/badge.svg)](https://coveralls.io/github/justeat/handlebars-helper-inlinesvg)
+[![Dependency Status](https://gemnasium.com/badges/github.com/justeat/handlebars-helper-inlinesvg.svg)](https://gemnasium.com/github.com/justeat/handlebars-helper-inlinesvg)
 
 Handlebars helper to inline SVGs
 
